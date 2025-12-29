@@ -13,6 +13,10 @@ The goal is to provide a transparent, collaborative, and easily shareable resour
 4. **Conclusion** – Summary of findings and implications for dermatological practice.
 5. **References** – List of cited studies and resources.
 
+## 1. Introduction
+
+The skin is continuously exposed to environmental stressors such as ultraviolet (UV) radiation, pollution, and oxidative stress, which generate reactive oxygen species (ROS) known as free radicals. These unstable molecules damage cellular components—lipids, proteins, and DNA—leading to premature aging, hyperpigmentation, and loss of skin elasticity. Antioxidants neutralize free radicals by donating electrons, thereby preventing and repairing oxidative damage. In dermatology, topical antioxidants have become a cornerstone of preventive and reparative skincare. The most extensively studied antioxidants for topical application are L‑ascorbic acid (Vitamin C), tocopherol (Vitamin E), and ferulic acid. When formulated together, these agents exhibit synergistic effects, enhancing each other’s stability, penetration, and free‑radical‑scavenging capacity. This section outlines the fundamental science behind free‑radical‑mediated skin damage and the mechanisms by which antioxidant serums protect and rejuvenate the skin.
+
 ## How to Contribute
 This project welcomes contributions from dermatologists, researchers, and skincare enthusiasts. Please review the open issues, propose changes via pull requests, and adhere to the collaborative workflow outlined in the repository.
 
